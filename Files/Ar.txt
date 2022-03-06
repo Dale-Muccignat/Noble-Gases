@@ -1,8 +1,8 @@
 LXCat, www.lxcat.net
-Generated on 17 Jun 2019. All rights reserved.
+Generated on 23 Jan 2022. All rights reserved.
 
 RECOMMENDED REFERENCE FORMAT
-- Biagi-v7.1 database, www.lxcat.net, retrieved on June 17, 2019.
+- Biagi-v7.1 database, www.lxcat.net, retrieved on January 23, 2022.
 Be aware that some databases and solvers can additionally have instructions how to reference corresponding data.
 Please check below in the headers of databases.
 
@@ -63,7 +63,7 @@ SPECIES: e / Ar
 PROCESS: E + Ar -> E + Ar, Elastic
 PARAM.:  m/M = 0.0000136, complete set
 COMMENT: From Biagi elastic MOMENTUM-TRANSFER CROSS SECTION.
-UPDATED: 2011-01-19 09:34:55
+UPDATED: 2011-01-19 02:34:55
 COLUMNS: Energy (eV) | Cross section (m2)
 -----------------------------
  0.000000e+0	7.100000e-20
@@ -277,7 +277,7 @@ SPECIES: e / Ar
 PROCESS: E + Ar -> E + Ar*(11.55eV), Excitation
 PARAM.:  E = 11.55 eV, complete set
 COMMENT: Excitation S-LEVELS ,ELOSS= 11.55.
-UPDATED: 2010-11-13 12:15:27
+UPDATED: 2010-11-13 05:15:27
 COLUMNS: Energy (eV) | Cross section (m2)
 -----------------------------
  1.155000e+1	0.000000e+0
@@ -489,8 +489,8 @@ Ar -> Ar*(13.00eV)
 SPECIES: e / Ar
 PROCESS: E + Ar -> E + Ar*(13.00eV), Excitation
 PARAM.:  E = 13 eV, complete set
-COMMENT: EXC P-LEVELS  ELOSS= 13.0.
-UPDATED: 2010-11-13 12:16:37
+COMMENT: EXC P-LEVELS ELOSS= 13.0.
+UPDATED: 2010-11-13 05:16:37
 COLUMNS: Energy (eV) | Cross section (m2)
 -----------------------------
  1.300000e+1	0.000000e+0
@@ -702,8 +702,8 @@ Ar -> Ar*(14.00eV)
 SPECIES: e / Ar
 PROCESS: E + Ar -> E + Ar*(14.00eV), Excitation
 PARAM.:  E = 14 eV, complete set
-COMMENT: EXC D-LEVELS  ELOSS= 14.O.
-UPDATED: 2011-01-30 08:43:43
+COMMENT: EXC D-LEVELS ELOSS= 14.O.
+UPDATED: 2011-01-30 01:43:43
 COLUMNS: Energy (eV) | Cross section (m2)
 -----------------------------
  1.400000e+1	0.000000e+0
@@ -915,7 +915,7 @@ Ar -> Ar^+
 SPECIES: e / Ar
 PROCESS: E + Ar -> E + E + Ar+, Ionization
 PARAM.:  E = 15.7 eV, complete set
-UPDATED: 2010-11-13 12:17:45
+UPDATED: 2010-11-13 05:17:45
 COLUMNS: Energy (eV) | Cross section (m2)
 -----------------------------
  1.570000e+1	0.000000e+0
